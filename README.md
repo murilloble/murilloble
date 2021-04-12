@@ -3,8 +3,12 @@
 
 ** ME CHAMO MURILLO LEMOS 🔭 **
 
+<div align="center">
+  
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+</div>
 
 Programador JAVA | FOURSYS 🌱
 
