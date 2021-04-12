@@ -6,7 +6,7 @@
 
 ### HELLO WORD! 👋
 
-<img src="https://cdn.awsli.com.br/600x450/608/608801/produto/30230774/1b8436aaa9.jpg" width="300" height="300"/>
+<img src="https://img.elo7.com.br/product/zoom/30B276D/caneca-programacao-javascript.jpg" width="300" height="300"/>
 
 ** SEJA BEM VINDO **
 
