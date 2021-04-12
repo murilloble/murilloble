@@ -8,8 +8,7 @@
 
 ** SEJA BEM VINDO **
 
-** Me chamo Murillo Lemos tenho 20 anos, estou atuando atualmente como desenvolvedor JAVA como treinee na empresa Foursys.
-Sou uma pessoa muito estrovertida **
+** Me chamo Murillo Lemos tenho 20 anos, estou atuando atualmente como desenvolvedor JAVA como treinee na empresa Foursys. **
 
 
   
