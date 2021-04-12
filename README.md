@@ -22,9 +22,13 @@ Taboão da Serra, São Paulo, Brasil 🌎
 </div>
 
 ## WordSpace
+
 • Netbeans IDE 
+
 • Eclipse IDE 
+
 • Scratch
+
 • Portugol
 
 ## Contato
@@ -40,8 +44,11 @@ Taboão da Serra, São Paulo, Brasil 🌎
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Informações
+
 • Linguas... JAVA
+
 • JAVA SE: Swing, JDBC
+
 • Scrum 
 
 [![Murillo Lemos's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilloble&hide=contribs,issues&show_icons=true)](https://github.com/murilloble)
