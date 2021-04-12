@@ -4,7 +4,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=murilloble&label=Profile%20views&color=0e75b6&style=social" alt="Murillo Barbosa Lemos" />
 
-### HELLO WORD! 👋
+### HELLO WORlD! 👋
 
 <img src="https://img.elo7.com.br/product/zoom/30B276D/caneca-programacao-javascript.jpg" width="300" height="300"/>
 
