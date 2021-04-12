@@ -7,7 +7,7 @@
 ### OLÁ! 👋
 ** SEJA BEM VINDO **
 
-** ME CHAMO MURILLO LEMOS 🔭 **
+** Me chamo Murillo Lemos tenho 20 anos, estou atuando atualmente como desenvolvedor JAVA como treinee na empresa Foursys **
 
 
   
