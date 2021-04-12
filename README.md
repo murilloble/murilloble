@@ -2,6 +2,8 @@
   
 **São Paulo- Brasil :earth_americas:**
 
+ <img src="https://komarev.com/ghpvc/?username=murilloble&label=Profile%20views&color=0e75b6&style=social" alt="Murillo Barbosa Lemos" />
+
 ### OLÁ! 👋
 ** SEJA BEM VINDO **
 
