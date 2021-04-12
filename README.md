@@ -17,8 +17,8 @@ Taboão da Serra, São Paulo, Brasil 🌎
 
 ## Contato
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilloble)
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murillo17000ble@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilloble)
 [![LinkedinBadge](https://img.shields.io/badge/Linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-barbosa-lemos-4173b21a1/)
 [![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mu_rillo/)
 
