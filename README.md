@@ -6,6 +6,8 @@
 
 ### HELLO WORD! 👋
 
+<img src="https://cdn.awsli.com.br/600x450/608/608801/produto/30230774/1b8436aaa9.jpg" width="300" height="300"/>
+
 ** SEJA BEM VINDO **
 
 ** Me chamo Murillo Lemos tenho 20 anos, estou atuando atualmente como desenvolvedor JAVA como treinee na empresa Foursys. **
