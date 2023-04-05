@@ -19,7 +19,9 @@
 
 
 
-Programador JAVA | FOURSYS 🌱
+Fullstack Developer 👨‍💻
+
+Analista e Desenvolvedor de Sistemas
 
 Taboão da Serra, São Paulo, Brasil 🌎
 
